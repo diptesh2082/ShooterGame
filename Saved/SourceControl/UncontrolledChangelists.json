@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/game projects/SimpleShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap",
+				"E:/game projects/SimpleShooter/Content/BP_MyPawn.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_Shooter.uasset",
+				"E:/game projects/SimpleShooter/Content/SandBox.umap",
+				"E:/game projects/SimpleShooter/Content/BP_gameMood.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_ShooterGameMood.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset",
+				"E:/game projects/SimpleShooter/Content/ABP_ShooterCharacter.uasset",
+				"E:/game projects/SimpleShooter/Content/BS_Locomotion.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat.uasset"
+			]
+		}
+	]
+}
