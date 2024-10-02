@@ -15,6 +15,11 @@ public:
 	// Sets default values for this actor's properties
 	AGun();
 
+	void PullTrigger();
+
+	
+	// virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent);
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -28,5 +33,26 @@ private:
 
 	UPROPERTY(VisibleAnywhere)
 	USkeletalMeshComponent* Mesh;
+	
+	UPROPERTY(EditAnywhere)
+	UParticleSystem* MuzzleFlash;
 
+	UPROPERTY(EditAnywhere)
+	USoundBase* MuzzleSound;
+
+	UPROPERTY(EditAnywhere)
+	UParticleSystem* ImpactEffect;
+
+	UPROPERTY(EditAnywhere)
+	USoundBase* ImpactSound;
+
+	UPROPERTY(EditAnywhere)
+	float MaxRange = 100000;
+
+	UPROPERTY(EditAnywhere)
+	float Damage = 50;
+
+	bool GunTrace(FHitResult &Hit, FVector& ShotDirection);
+
+	AController* GetOwnerController() const;
 };

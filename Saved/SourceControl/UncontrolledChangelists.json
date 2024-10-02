@@ -16,7 +16,26 @@
 				"E:/game projects/SimpleShooter/Content/ABP_ShooterCharacter.uasset",
 				"E:/game projects/SimpleShooter/Content/BS_Locomotion.uasset",
 				"E:/game projects/SimpleShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Locomotion_Combat/Idle_Combat.uasset",
-				"E:/game projects/SimpleShooter/Content/BP_Gun.uasset"
+				"E:/game projects/SimpleShooter/Content/BP_Gun.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Meshes/Wraith_Skeleton.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ShooterGame/Weapons/Rifle.uasset",
+				"E:/game projects/SimpleShooter/Content/AI/BP_ShooterAiController.uasset",
+				"E:/game projects/SimpleShooter/Content/AI/BT_EnemyAI.uasset",
+				"E:/game projects/SimpleShooter/Content/AI/BB_EnemyAi.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_KillEmAllGameMood.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_ShooterPlayerController.uasset",
+				"E:/game projects/SimpleShooter/Content/UI/WBP_LoseScreen.uasset",
+				"E:/game projects/SimpleShooter/Content/UI/WBP_WinScreen.uasset",
+				"E:/game projects/SimpleShooter/Content/SFX/A_GunShot_Cue.uasset",
+				"E:/game projects/SimpleShooter/Content/SFX/A_GunImpect_Cue.uasset",
+				"E:/game projects/SimpleShooter/Content/SFX/ATT_Default.uasset",
+				"E:/game projects/SimpleShooter/Content/UI/WBP_HUD.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_ShooterPlayer.uasset",
+				"E:/game projects/SimpleShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/WraithPlayerCharacter.uasset",
+				"E:/game projects/SimpleShooter/Content/WBP_LoseScreen.uasset",
+				"E:/game projects/SimpleShooter/Content/WBP_LoseScreen2.uasset",
+				"E:/game projects/SimpleShooter/Content/BP_ShooterAiController.uasset",
+				"E:/game projects/SimpleShooter/Content/BT_EnemyAI.uasset"
 			]
 		}
 	]
