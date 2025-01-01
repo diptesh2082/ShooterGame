@@ -17,7 +17,7 @@ Kill Em All is an exciting shooter game where players engage in intense battles 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/KillEmAll.git
+   git clone https://github.com/diptesh2082/ShooterGame.git
    ```
 2. Open the project in Unreal Engine.
 3. Build the project to ensure all dependencies are resolved.
@@ -28,10 +28,13 @@ Kill Em All is an exciting shooter game where players engage in intense battles 
 - Survive as long as possible to win the game.
 
 ## Code Structure
-The project consists of several key files:
-- **KillEmAllGameMode.cpp**: Contains the main game logic, including player and AI interactions.
-- **ShooterAiController.cpp**: Manages AI behavior and decision-making.
-- **Other relevant files**: Include additional game mechanics, player controls, and UI elements.
+The project consists of several key files and directories:
+- **Source/**: Contains the main game logic, including player and AI interactions.
+  - **KillEmAllGameMode.cpp**: Contains the main game logic.
+  - **ShooterAiController.cpp**: Manages AI behavior and decision-making.
+- **Config/**: Configuration files for the project.
+- **Saved/**: Contains saved game data.
+- **DerivedDataCache/**: Caches derived data for faster loading.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
@@ -41,3 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Thanks to the Unreal Engine community for their support and resources.
+
+## Repository Link
+You can find the repository [here](https://github.com/diptesh2082/ShooterGame.git).
