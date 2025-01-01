@@ -41,6 +41,7 @@ float ATheShooter::GetHealthPercent() const
 void ATheShooter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	
 
 }
 
